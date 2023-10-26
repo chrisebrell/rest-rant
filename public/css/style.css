@@ -23,3 +23,10 @@ h1 {
 .errorCat {
   width: 35%;
 }
+.form-group {
+    margin:3em; 
+}
+
+.btn-primary {
+    margin: 3em;
+}
