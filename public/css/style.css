@@ -2,3 +2,24 @@ h1 {
     text-align: center;
     color: cornflowerblue;
 }
+
+.chiaPic {
+    width: 512px;
+}
+
+.imgFit {
+   width: 50%;
+   justify-content: center;
+}
+
+.errorMessage {
+    text-align: center;
+}
+
+.errorDiv {
+    display: flex;
+    justify-content: center;
+}
+.errorCat {
+  width: 35%;
+}
