@@ -70,3 +70,7 @@ main {
 footer {
     background-color: tan;
 }
+
+.btn-danger {
+    margin-bottom: 2em;
+}
