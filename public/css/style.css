@@ -74,3 +74,6 @@ footer {
 .btn-danger {
     margin-bottom: 2em;
 }
+img {
+    max-width: 50%;
+}
